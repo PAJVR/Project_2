@@ -8,3 +8,7 @@
   <li>Prashant Vemulapalli</li>
   <li>Jaiana Butler</li>
 </ul>
+
+<h3>
+  <a href="https://www.youtube.com/channel/UCrFlGSXW--KMekOd8qmVuKg?view_as=subscriber">PAJVR YouTube Channel</a>
+</h3>
